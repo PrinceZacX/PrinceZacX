@@ -9,7 +9,7 @@
 
 ### Full-Stack Developer · Systems Architect · Technology Entrepreneur
 
-**Founder of JIHUB-IT**
+**Founder of JITHUB-IT**
 
 *Beyond Technology, We Build Trust.*
 
@@ -48,9 +48,21 @@ My work focuses on turning business and organizational requirements into maintai
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
-### Database
+### Database & Data Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=000)
+
+### Additional Database Technologies
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=fff)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
+
+*PostgreSQL and Neon are part of my current project stack. The additional database technologies represent areas for further learning and exploration.*
 
 ### Cloud, Tools & Version Control
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
@@ -100,7 +112,7 @@ A reusable software engineering knowledge base for development workflows, agent 
 ## Connect
 
 - GitHub: [@PrinceZacX](https://github.com/PrinceZacX)
-- Organization and engineering brand: **JIHUB-IT**
+- Organization and engineering brand: **JITHUB-IT**
 - Tagline: **Beyond Technology, We Build Trust**
 
 ---
