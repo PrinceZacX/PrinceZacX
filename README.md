@@ -7,13 +7,13 @@
 
 # Hi, I'm Prince Zac 👋
 
-### Full-Stack Developer · Systems Architect · Technology Entrepreneur
+### Full-Stack Developer · Web Developer · Systems Architect
 
 **Founder of JITHUB-IT**
 
 *Beyond Technology, We Build Trust.*
 
-I design and build software systems for real operational needs, with a focus on full-stack applications, backend engineering, database architecture, secure access control, and AI-assisted solutions.
+I design and develop websites, web applications, and business software for real operational needs. My work spans frontend development, backend engineering, database architecture, secure access control, workflow automation, and cloud deployment.
 
 [GitHub](https://github.com/PrinceZacX)
 
@@ -23,8 +23,10 @@ I design and build software systems for real operational needs, with a focus on 
 
 ## About Me
 
-My work focuses on turning business and organizational requirements into maintainable software.
+I turn business and organizational requirements into useful, maintainable digital products, from public-facing websites to full-stack business platforms.
 
+- Business, corporate, and service-based website development
+- Responsive websites, landing pages, and web interfaces
 - Full-stack web application development
 - Backend services and API design
 - Relational database design and management
@@ -43,7 +45,7 @@ My work focuses on turning business and organizational requirements into maintai
 
 ## Technology Stack
 
-### Frontend
+### Frontend & Website Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -86,6 +88,19 @@ My work focuses on turning business and organizational requirements into maintai
 - Audit logging and workflow controls
 - Automated testing and deployment practices
 
+## Services & Development Focus
+
+- Business and corporate websites
+- Responsive websites and landing pages
+- Website redesign and frontend implementation
+- Custom full-stack web applications
+- ERP and organizational management systems
+- Learning Management Systems (LMS)
+- Executive dashboards and administrative portals
+- Digital invoicing and receipting workflows
+- API development and third-party integrations
+- Database architecture and workflow automation
+
 ## Selected Engineering Projects
 
 The following projects represent areas of my software engineering work. Some repositories are private or projects are still under active development, so public source links are not available for every project.
@@ -95,10 +110,15 @@ A centralized organizational management platform with role-based workspaces, adm
 
 **Focus:** Next.js, React, TypeScript, PostgreSQL, Neon, authentication, permissions, and workflow engineering.
 
-### Glory AI Trading Engine
-An AI-assisted trading software project focused on account management, trading infrastructure, risk controls, and staged broker integration.
+### PRSIRE Global Console LMS
+A multi-tenant school management and learning management platform, organized across a web frontend, FastAPI backend, and database project.
 
-**Focus:** Python, backend services, TypeScript, and trading-system architecture.
+**Focus:** React, Vite, TypeScript, FastAPI, Supabase, tenant isolation, and row-level security.
+
+### Glory AI Trading Engine
+A quantitative trading research platform focused on market-data ingestion, risk controls, simulation, and paper execution. The current documented release is simulation-only.
+
+**Focus:** Python, FastAPI, risk engineering, event logging, and paper-trading infrastructure.
 
 ### CDA E-Receipt
 A digital receipt and payment-record platform designed to support receipt workflows and reliable transaction records.
@@ -128,6 +148,6 @@ A reusable software engineering knowledge base for development workflows, agent 
 
 <div align="center">
 
-*Building useful software. Engineering systems people can trust.*
+*Building useful websites and software systems people can trust.*
 
 </div>
