@@ -32,6 +32,15 @@ My work focuses on turning business and organizational requirements into maintai
 - Workflow automation and AI-assisted systems
 - Cloud deployment and software delivery
 
+## GitHub Activity & Journey
+
+- **224 contributions** over the past year.
+- **Building since 2022**, with continued work across software development, systems engineering, and technology projects.
+
+[View my GitHub contribution activity](https://github.com/PrinceZacX)
+
+---
+
 ## Technology Stack
 
 ### Frontend
