@@ -9,7 +9,7 @@
 
 ### Full-Stack Developer · Systems Architect · Technology Entrepreneur
 
-**Founder of JITHUB Systems**
+**Founder of JIHUB-IT**
 
 *Beyond Technology, We Build Trust.*
 
@@ -100,7 +100,7 @@ A reusable software engineering knowledge base for development workflows, agent 
 ## Connect
 
 - GitHub: [@PrinceZacX](https://github.com/PrinceZacX)
-- Organization and engineering brand: **JITHUB Systems**
+- Organization and engineering brand: **JIHUB-IT**
 - Tagline: **Beyond Technology, We Build Trust**
 
 ---
